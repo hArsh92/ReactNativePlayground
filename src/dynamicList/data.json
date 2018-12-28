@@ -1,0 +1,19 @@
+{
+    "results": [
+        {
+            "id": 12,
+            "type": "type1",
+            "message": "Post1"
+        },
+        {
+            "id": 23,
+            "type": "type2",
+            "message": "Post2"
+        },
+        {
+            "id": 34,
+            "type": "type3",
+            "message": "Post3"
+        }
+    ]
+}
